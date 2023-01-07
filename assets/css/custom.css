@@ -422,11 +422,10 @@ video {
 @font-face {
   font-family: "Cormorant Garamond";
 
-  src: url("./assets/fonts/eot/CormorantGaramond-BoldItalic.eot");
+  src: url("../fonts/eot/CormorantGaramond-BoldItalic.eot");
 
-  src: url("./assets/fonts/eot/CormorantGaramond-BoldItalic.eot?#iefix") format("embedded-opentype"), url("./assets/fonts/woff2/CormorantGaramond-BoldItalic.woff2") format("woff2"),
-            url("./assets/fonts/woff/CormorantGaramond-BoldItalic.woff") format("woff"), url("./assets/fonts/ttf/CormorantGaramond-BoldItalic.ttf") format("truetype"),
-            url("./assets/fonts/svg/CormorantGaramond-BoldItalic.svg#CormorantGaramond-BoldItalic") format("svg");
+  src: url("../fonts/eot/CormorantGaramond-BoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/woff2/CormorantGaramond-BoldItalic.woff2") format("woff2"), url("../fonts/woff/CormorantGaramond-BoldItalic.woff") format("woff"),
+            url("../fonts/ttf/CormorantGaramond-BoldItalic.ttf") format("truetype"), url("../fonts/svg/CormorantGaramond-BoldItalic.svg#CormorantGaramond-BoldItalic") format("svg");
 
   font-weight: bold;
 
@@ -438,10 +437,10 @@ video {
 @font-face {
   font-family: "Cormorant Garamond";
 
-  src: url("./assets/fonts/eot/CormorantGaramond-Bold.eot");
+  src: url("../fonts/eot/CormorantGaramond-Bold.eot");
 
-  src: url("./assets/fonts/eot/CormorantGaramond-Bold.eot?#iefix") format("embedded-opentype"), url("./assets/fonts/woff2/CormorantGaramond-Bold.woff2") format("woff2"), url("./assets/fonts/woff/CormorantGaramond-Bold.woff") format("woff"),
-            url("./assets/fonts/ttf/CormorantGaramond-Bold.ttf") format("truetype"), url("./assets/fonts/svg/CormorantGaramond-Bold.svg#CormorantGaramond-Bold") format("svg");
+  src: url("../fonts/eot/CormorantGaramond-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/woff2/CormorantGaramond-Bold.woff2") format("woff2"), url("../fonts/woff/CormorantGaramond-Bold.woff") format("woff"),
+            url("../fonts/ttf/CormorantGaramond-Bold.ttf") format("truetype"), url("../fonts/svg/CormorantGaramond-Bold.svg#CormorantGaramond-Bold") format("svg");
 
   font-weight: bold;
 
@@ -453,10 +452,10 @@ video {
 @font-face {
   font-family: "Cormorant Garamond";
 
-  src: url("./assets/fonts/eot/CormorantGaramond-Light.eot");
+  src: url("../fonts/eot/CormorantGaramond-Light.eot");
 
-  src: url("./assets/fonts/eot/CormorantGaramond-Light.eot?#iefix") format("embedded-opentype"), url("./assets/fonts/woff2/CormorantGaramond-Light.woff2") format("woff2"), url("./assets/fonts/woff/CormorantGaramond-Light.woff") format("woff"),
-            url("./assets/fonts/ttf/CormorantGaramond-Light.ttf") format("truetype"), url("./assets/fonts/svg/CormorantGaramond-Light.svg#CormorantGaramond-Light") format("svg");
+  src: url("../fonts/eot/CormorantGaramond-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/woff2/CormorantGaramond-Light.woff2") format("woff2"), url("../fonts/woff/CormorantGaramond-Light.woff") format("woff"),
+            url("../fonts/ttf/CormorantGaramond-Light.ttf") format("truetype"), url("../fonts/svg/CormorantGaramond-Light.svg#CormorantGaramond-Light") format("svg");
 
   font-weight: 300;
 
@@ -468,11 +467,10 @@ video {
 @font-face {
   font-family: "Cormorant Garamond";
 
-  src: url("./assets/fonts/eot/CormorantGaramond-Italic.eot");
+  src: url("../fonts/eot/CormorantGaramond-Italic.eot");
 
-  src: url("./assets/fonts/eot/CormorantGaramond-Italic.eot?#iefix") format("embedded-opentype"), url("./assets/fonts/woff2/CormorantGaramond-Italic.woff2") format("woff2"),
-            url("./assets/fonts/woff/CormorantGaramond-Italic.woff") format("woff"), url("./assets/fonts/ttf/CormorantGaramond-Italic.ttf") format("truetype"),
-            url("./assets/fonts/svg/CormorantGaramond-Italic.svg#CormorantGaramond-Italic") format("svg");
+  src: url("../fonts/eot/CormorantGaramond-Italic.eot?#iefix") format("embedded-opentype"), url("../fonts/woff2/CormorantGaramond-Italic.woff2") format("woff2"), url("../fonts/woff/CormorantGaramond-Italic.woff") format("woff"),
+            url("../fonts/ttf/CormorantGaramond-Italic.ttf") format("truetype"), url("../fonts/svg/CormorantGaramond-Italic.svg#CormorantGaramond-Italic") format("svg");
 
   font-weight: normal;
 
@@ -484,11 +482,11 @@ video {
 @font-face {
   font-family: "Cormorant Garamond";
 
-  src: url("./assets/fonts/eot/CormorantGaramond-MediumItalic.eot");
+  src: url("../fonts/eot/CormorantGaramond-MediumItalic.eot");
 
-  src: url("./assets/fonts/eot/CormorantGaramond-MediumItalic.eot?#iefix") format("embedded-opentype"), url("./assets/fonts/woff2/CormorantGaramond-MediumItalic.woff2") format("woff2"),
-            url("./assets/fonts/woff/CormorantGaramond-MediumItalic.woff") format("woff"), url("./assets/fonts/ttf/CormorantGaramond-MediumItalic.ttf") format("truetype"),
-            url("./assets/fonts/svg/CormorantGaramond-MediumItalic.svg#CormorantGaramond-MediumItalic") format("svg");
+  src: url("../fonts/eot/CormorantGaramond-MediumItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/woff2/CormorantGaramond-MediumItalic.woff2") format("woff2"),
+            url("../fonts/woff/CormorantGaramond-MediumItalic.woff") format("woff"), url("../fonts/ttf/CormorantGaramond-MediumItalic.ttf") format("truetype"),
+            url("../fonts/svg/CormorantGaramond-MediumItalic.svg#CormorantGaramond-MediumItalic") format("svg");
 
   font-weight: 500;
 
@@ -500,11 +498,10 @@ video {
 @font-face {
   font-family: "Cormorant Garamond";
 
-  src: url("./assets/fonts/eot/CormorantGaramond-LightItalic.eot");
+  src: url("../fonts/eot/CormorantGaramond-LightItalic.eot");
 
-  src: url("./assets/fonts/eot/CormorantGaramond-LightItalic.eot?#iefix") format("embedded-opentype"), url("./assets/fonts/woff2/CormorantGaramond-LightItalic.woff2") format("woff2"),
-            url("./assets/fonts/woff/CormorantGaramond-LightItalic.woff") format("woff"), url("./assets/fonts/ttf/CormorantGaramond-LightItalic.ttf") format("truetype"),
-            url("./assets/fonts/svg/CormorantGaramond-LightItalic.svg#CormorantGaramond-LightItalic") format("svg");
+  src: url("../fonts/eot/CormorantGaramond-LightItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/woff2/CormorantGaramond-LightItalic.woff2") format("woff2"), url("../fonts/woff/CormorantGaramond-LightItalic.woff") format("woff"),
+            url("../fonts/ttf/CormorantGaramond-LightItalic.ttf") format("truetype"), url("../fonts/svg/CormorantGaramond-LightItalic.svg#CormorantGaramond-LightItalic") format("svg");
 
   font-weight: 300;
 
@@ -516,11 +513,10 @@ video {
 @font-face {
   font-family: "Cormorant Garamond";
 
-  src: url("./assets/fonts/eot/CormorantGaramond-SemiBold.eot");
+  src: url("../fonts/eot/CormorantGaramond-SemiBold.eot");
 
-  src: url("./assets/fonts/eot/CormorantGaramond-SemiBold.eot?#iefix") format("embedded-opentype"), url("./assets/fonts/woff2/CormorantGaramond-SemiBold.woff2") format("woff2"),
-            url("./assets/fonts/woff/CormorantGaramond-SemiBold.woff") format("woff"), url("./assets/fonts/ttf/CormorantGaramond-SemiBold.ttf") format("truetype"),
-            url("./assets/fonts/svg/CormorantGaramond-SemiBold.svg#CormorantGaramond-SemiBold") format("svg");
+  src: url("../fonts/eot/CormorantGaramond-SemiBold.eot?#iefix") format("embedded-opentype"), url("../fonts/woff2/CormorantGaramond-SemiBold.woff2") format("woff2"), url("../fonts/woff/CormorantGaramond-SemiBold.woff") format("woff"),
+            url("../fonts/ttf/CormorantGaramond-SemiBold.ttf") format("truetype"), url("../fonts/svg/CormorantGaramond-SemiBold.svg#CormorantGaramond-SemiBold") format("svg");
 
   font-weight: 600;
 
@@ -532,11 +528,10 @@ video {
 @font-face {
   font-family: "Cormorant Garamond";
 
-  src: url("./assets/fonts/eot/CormorantGaramond-Regular.eot");
+  src: url("../fonts/eot/CormorantGaramond-Regular.eot");
 
-  src: url("./assets/fonts/eot/CormorantGaramond-Regular.eot?#iefix") format("embedded-opentype"), url("./assets/fonts/woff2/CormorantGaramond-Regular.woff2") format("woff2"),
-            url("./assets/fonts/woff/CormorantGaramond-Regular.woff") format("woff"), url("./assets/fonts/ttf/CormorantGaramond-Regular.ttf") format("truetype"),
-            url("./assets/fonts/svg/CormorantGaramond-Regular.svg#CormorantGaramond-Regular") format("svg");
+  src: url("../fonts/eot/CormorantGaramond-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/woff2/CormorantGaramond-Regular.woff2") format("woff2"), url("../fonts/woff/CormorantGaramond-Regular.woff") format("woff"),
+            url("../fonts/ttf/CormorantGaramond-Regular.ttf") format("truetype"), url("../fonts/svg/CormorantGaramond-Regular.svg#CormorantGaramond-Regular") format("svg");
 
   font-weight: normal;
 
@@ -548,11 +543,11 @@ video {
 @font-face {
   font-family: "Cormorant Garamond";
 
-  src: url("./assets/fonts/eot/CormorantGaramond-SemiBoldItalic.eot");
+  src: url("../fonts/eot/CormorantGaramond-SemiBoldItalic.eot");
 
-  src: url("./assets/fonts/eot/CormorantGaramond-SemiBoldItalic.eot?#iefix") format("embedded-opentype"), url("./assets/fonts/woff2/CormorantGaramond-SemiBoldItalic.woff2") format("woff2"),
-            url("./assets/fonts/woff/CormorantGaramond-SemiBoldItalic.woff") format("woff"), url("./assets/fonts/ttf/CormorantGaramond-SemiBoldItalic.ttf") format("truetype"),
-            url("./assets/fonts/svg/CormorantGaramond-SemiBoldItalic.svg#CormorantGaramond-SemiBoldItalic") format("svg");
+  src: url("../fonts/eot/CormorantGaramond-SemiBoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/woff2/CormorantGaramond-SemiBoldItalic.woff2") format("woff2"),
+            url("../fonts/woff/CormorantGaramond-SemiBoldItalic.woff") format("woff"), url("../fonts/ttf/CormorantGaramond-SemiBoldItalic.ttf") format("truetype"),
+            url("../fonts/svg/CormorantGaramond-SemiBoldItalic.svg#CormorantGaramond-SemiBoldItalic") format("svg");
 
   font-weight: 600;
 
@@ -564,90 +559,58 @@ video {
 @font-face {
   font-family: "Cormorant Garamond";
 
-  src: url("./assets/fonts/eot/CormorantGaramond-Medium.eot");
+  src: url("../fonts/eot/CormorantGaramond-Medium.eot");
 
-  src: url("./assets/fonts/eot/CormorantGaramond-Medium.eot?#iefix") format("embedded-opentype"), url("./assets/fonts/woff2/CormorantGaramond-Medium.woff2") format("woff2"),
-            url("./assets/fonts/woff/CormorantGaramond-Medium.woff") format("woff"), url("./assets/fonts/ttf/CormorantGaramond-Medium.ttf") format("truetype"),
-            url("./assets/fonts/svg/CormorantGaramond-Medium.svg#CormorantGaramond-Medium") format("svg");
-
-  font-weight: 500;
-
-  font-style: normal;
-
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Proza Libre";
-
-  src: url("./assets/fonts/eot/ProzaLibre-Bold.eot");
-
-  src: url("./assets/fonts/eot/ProzaLibre-Bold.eot?#iefix") format("embedded-opentype"), url("./assets/fonts/woff2/ProzaLibre-Bold.woff2") format("woff2"), url("./assets/fonts/woff/ProzaLibre-Bold.woff") format("woff"),
-            url("./assets/fonts/ttf/ProzaLibre-Bold.ttf") format("truetype"), url("./assets/fonts/svg/ProzaLibre-Bold.svg#ProzaLibre-Bold") format("svg");
-
-  font-weight: bold;
-
-  font-style: normal;
-
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Proza Libre";
-
-  src: url("./assets/fonts/eot/ProzaLibre-ExtraBold.eot");
-
-  src: url("./assets/fonts/eot/ProzaLibre-ExtraBold.eot?#iefix") format("embedded-opentype"), url("./assets/fonts/woff2/ProzaLibre-ExtraBold.woff2") format("woff2"), url("./assets/fonts/woff/ProzaLibre-ExtraBold.woff") format("woff"),
-            url("./assets/fonts/ttf/ProzaLibre-ExtraBold.ttf") format("truetype"), url("./assets/fonts/svg/ProzaLibre-ExtraBold.svg#ProzaLibre-ExtraBold") format("svg");
-
-  font-weight: bold;
-
-  font-style: normal;
-
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Proza Libre";
-
-  src: url("./assets/fonts/eot/ProzaLibre-BoldItalic.eot");
-
-  src: url("./assets/fonts/eot/ProzaLibre-BoldItalic.eot?#iefix") format("embedded-opentype"), url("./assets/fonts/woff2/ProzaLibre-BoldItalic.woff2") format("woff2"), url("./assets/fonts/woff/ProzaLibre-BoldItalic.woff") format("woff"),
-            url("./assets/fonts/ttf/ProzaLibre-BoldItalic.ttf") format("truetype"), url("./assets/fonts/svg/ProzaLibre-BoldItalic.svg#ProzaLibre-BoldItalic") format("svg");
-
-  font-weight: bold;
-
-  font-style: italic;
-
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Proza Libre";
-
-  src: url("./assets/fonts/eot/ProzaLibre-ExtraBoldItalic.eot");
-
-  src: url("./assets/fonts/eot/ProzaLibre-ExtraBoldItalic.eot?#iefix") format("embedded-opentype"), url("./assets/fonts/woff2/ProzaLibre-ExtraBoldItalic.woff2") format("woff2"),
-            url("./assets/fonts/woff/ProzaLibre-ExtraBoldItalic.woff") format("woff"), url("./assets/fonts/ttf/ProzaLibre-ExtraBoldItalic.ttf") format("truetype"),
-            url("./assets/fonts/svg/ProzaLibre-ExtraBoldItalic.svg#ProzaLibre-ExtraBoldItalic") format("svg");
-
-  font-weight: bold;
-
-  font-style: italic;
-
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Proza Libre";
-
-  src: url("./assets/fonts/eot/ProzaLibre-MediumItalic.eot");
-
-  src: url("./assets/fonts/eot/ProzaLibre-MediumItalic.eot?#iefix") format("embedded-opentype"), url("./assets/fonts/woff2/ProzaLibre-MediumItalic.woff2") format("woff2"), url("./assets/fonts/woff/ProzaLibre-MediumItalic.woff") format("woff"),
-            url("./assets/fonts/ttf/ProzaLibre-MediumItalic.ttf") format("truetype"), url("./assets/fonts/svg/ProzaLibre-MediumItalic.svg#ProzaLibre-MediumItalic") format("svg");
+  src: url("../fonts/eot/CormorantGaramond-Medium.eot?#iefix") format("embedded-opentype"), url("../fonts/woff2/CormorantGaramond-Medium.woff2") format("woff2"), url("../fonts/woff/CormorantGaramond-Medium.woff") format("woff"),
+            url("../fonts/ttf/CormorantGaramond-Medium.ttf") format("truetype"), url("../fonts/svg/CormorantGaramond-Medium.svg#CormorantGaramond-Medium") format("svg");
 
   font-weight: 500;
 
+  font-style: normal;
+
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Proza Libre";
+
+  src: url("../fonts/eot/ProzaLibre-Bold.eot");
+
+  src: url("../fonts/eot/ProzaLibre-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/woff2/ProzaLibre-Bold.woff2") format("woff2"), url("../fonts/woff/ProzaLibre-Bold.woff") format("woff"),
+            url("../fonts/ttf/ProzaLibre-Bold.ttf") format("truetype"), url("../fonts/svg/ProzaLibre-Bold.svg#ProzaLibre-Bold") format("svg");
+
+  font-weight: bold;
+
+  font-style: normal;
+
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Proza Libre";
+
+  src: url("../fonts/eot/ProzaLibre-ExtraBold.eot");
+
+  src: url("../fonts/eot/ProzaLibre-ExtraBold.eot?#iefix") format("embedded-opentype"), url("../fonts/woff2/ProzaLibre-ExtraBold.woff2") format("woff2"), url("../fonts/woff/ProzaLibre-ExtraBold.woff") format("woff"),
+            url("../fonts/ttf/ProzaLibre-ExtraBold.ttf") format("truetype"), url("../fonts/svg/ProzaLibre-ExtraBold.svg#ProzaLibre-ExtraBold") format("svg");
+
+  font-weight: bold;
+
+  font-style: normal;
+
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Proza Libre";
+
+  src: url("../fonts/eot/ProzaLibre-BoldItalic.eot");
+
+  src: url("../fonts/eot/ProzaLibre-BoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/woff2/ProzaLibre-BoldItalic.woff2") format("woff2"), url("../fonts/woff/ProzaLibre-BoldItalic.woff") format("woff"),
+            url("../fonts/ttf/ProzaLibre-BoldItalic.ttf") format("truetype"), url("../fonts/svg/ProzaLibre-BoldItalic.svg#ProzaLibre-BoldItalic") format("svg");
+
+  font-weight: bold;
+
   font-style: italic;
 
   font-display: swap;
@@ -656,10 +619,40 @@ video {
 @font-face {
   font-family: "Proza Libre";
 
-  src: url("./assets/fonts/eot/ProzaLibre-SemiBold.eot");
+  src: url("../fonts/eot/ProzaLibre-ExtraBoldItalic.eot");
 
-  src: url("./assets/fonts/eot/ProzaLibre-SemiBold.eot?#iefix") format("embedded-opentype"), url("./assets/fonts/woff2/ProzaLibre-SemiBold.woff2") format("woff2"), url("./assets/fonts/woff/ProzaLibre-SemiBold.woff") format("woff"),
-            url("./assets/fonts/ttf/ProzaLibre-SemiBold.ttf") format("truetype"), url("./assets/fonts/svg/ProzaLibre-SemiBold.svg#ProzaLibre-SemiBold") format("svg");
+  src: url("../fonts/eot/ProzaLibre-ExtraBoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/woff2/ProzaLibre-ExtraBoldItalic.woff2") format("woff2"), url("../fonts/woff/ProzaLibre-ExtraBoldItalic.woff") format("woff"),
+            url("../fonts/ttf/ProzaLibre-ExtraBoldItalic.ttf") format("truetype"), url("../fonts/svg/ProzaLibre-ExtraBoldItalic.svg#ProzaLibre-ExtraBoldItalic") format("svg");
+
+  font-weight: bold;
+
+  font-style: italic;
+
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Proza Libre";
+
+  src: url("../fonts/eot/ProzaLibre-MediumItalic.eot");
+
+  src: url("../fonts/eot/ProzaLibre-MediumItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/woff2/ProzaLibre-MediumItalic.woff2") format("woff2"), url("../fonts/woff/ProzaLibre-MediumItalic.woff") format("woff"),
+            url("../fonts/ttf/ProzaLibre-MediumItalic.ttf") format("truetype"), url("../fonts/svg/ProzaLibre-MediumItalic.svg#ProzaLibre-MediumItalic") format("svg");
+
+  font-weight: 500;
+
+  font-style: italic;
+
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Proza Libre";
+
+  src: url("../fonts/eot/ProzaLibre-SemiBold.eot");
+
+  src: url("../fonts/eot/ProzaLibre-SemiBold.eot?#iefix") format("embedded-opentype"), url("../fonts/woff2/ProzaLibre-SemiBold.woff2") format("woff2"), url("../fonts/woff/ProzaLibre-SemiBold.woff") format("woff"),
+            url("../fonts/ttf/ProzaLibre-SemiBold.ttf") format("truetype"), url("../fonts/svg/ProzaLibre-SemiBold.svg#ProzaLibre-SemiBold") format("svg");
 
   font-weight: 600;
 
@@ -671,10 +664,10 @@ video {
 @font-face {
   font-family: "Proza Libre";
 
-  src: url("./assets/fonts/eot/ProzaLibre-Italic.eot");
+  src: url("../fonts/eot/ProzaLibre-Italic.eot");
 
-  src: url("./assets/fonts/eot/ProzaLibre-Italic.eot?#iefix") format("embedded-opentype"), url("./assets/fonts/woff2/ProzaLibre-Italic.woff2") format("woff2"), url("./assets/fonts/woff/ProzaLibre-Italic.woff") format("woff"),
-            url("./assets/fonts/ttf/ProzaLibre-Italic.ttf") format("truetype"), url("./assets/fonts/svg/ProzaLibre-Italic.svg#ProzaLibre-Italic") format("svg");
+  src: url("../fonts/eot/ProzaLibre-Italic.eot?#iefix") format("embedded-opentype"), url("../fonts/woff2/ProzaLibre-Italic.woff2") format("woff2"), url("../fonts/woff/ProzaLibre-Italic.woff") format("woff"),
+            url("../fonts/ttf/ProzaLibre-Italic.ttf") format("truetype"), url("../fonts/svg/ProzaLibre-Italic.svg#ProzaLibre-Italic") format("svg");
 
   font-weight: normal;
 
@@ -686,10 +679,10 @@ video {
 @font-face {
   font-family: "Proza Libre";
 
-  src: url("./assets/fonts/eot/ProzaLibre-Medium.eot");
+  src: url("../fonts/eot/ProzaLibre-Medium.eot");
 
-  src: url("./assets/fonts/eot/ProzaLibre-Medium.eot?#iefix") format("embedded-opentype"), url("./assets/fonts/woff2/ProzaLibre-Medium.woff2") format("woff2"), url("./assets/fonts/woff/ProzaLibre-Medium.woff") format("woff"),
-            url("./assets/fonts/ttf/ProzaLibre-Medium.ttf") format("truetype"), url("./assets/fonts/svg/ProzaLibre-Medium.svg#ProzaLibre-Medium") format("svg");
+  src: url("../fonts/eot/ProzaLibre-Medium.eot?#iefix") format("embedded-opentype"), url("../fonts/woff2/ProzaLibre-Medium.woff2") format("woff2"), url("../fonts/woff/ProzaLibre-Medium.woff") format("woff"),
+            url("../fonts/ttf/ProzaLibre-Medium.ttf") format("truetype"), url("../fonts/svg/ProzaLibre-Medium.svg#ProzaLibre-Medium") format("svg");
 
   font-weight: 500;
 
@@ -701,10 +694,10 @@ video {
 @font-face {
   font-family: "Proza Libre";
 
-  src: url("./assets/fonts/eot/ProzaLibre-Regular.eot");
+  src: url("../fonts/eot/ProzaLibre-Regular.eot");
 
-  src: url("./assets/fonts/eot/ProzaLibre-Regular.eot?#iefix") format("embedded-opentype"), url("./assets/fonts/woff2/ProzaLibre-Regular.woff2") format("woff2"), url("./assets/fonts/woff/ProzaLibre-Regular.woff") format("woff"),
-            url("./assets/fonts/ttf/ProzaLibre-Regular.ttf") format("truetype"), url("./assets/fonts/svg/ProzaLibre-Regular.svg#ProzaLibre-Regular") format("svg");
+  src: url("../fonts/eot/ProzaLibre-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/woff2/ProzaLibre-Regular.woff2") format("woff2"), url("../fonts/woff/ProzaLibre-Regular.woff") format("woff"),
+            url("../fonts/ttf/ProzaLibre-Regular.ttf") format("truetype"), url("../fonts/svg/ProzaLibre-Regular.svg#ProzaLibre-Regular") format("svg");
 
   font-weight: normal;
 
@@ -716,11 +709,10 @@ video {
 @font-face {
   font-family: "Proza Libre";
 
-  src: url("./assets/fonts/eot/ProzaLibre-SemiBoldItalic.eot");
+  src: url("../fonts/eot/ProzaLibre-SemiBoldItalic.eot");
 
-  src: url("./assets/fonts/eot/ProzaLibre-SemiBoldItalic.eot?#iefix") format("embedded-opentype"), url("./assets/fonts/woff2/ProzaLibre-SemiBoldItalic.woff2") format("woff2"),
-            url("./assets/fonts/woff/ProzaLibre-SemiBoldItalic.woff") format("woff"), url("./assets/fonts/ttf/ProzaLibre-SemiBoldItalic.ttf") format("truetype"),
-            url("./assets/fonts/svg/ProzaLibre-SemiBoldItalic.svg#ProzaLibre-SemiBoldItalic") format("svg");
+  src: url("../fonts/eot/ProzaLibre-SemiBoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/woff2/ProzaLibre-SemiBoldItalic.woff2") format("woff2"), url("../fonts/woff/ProzaLibre-SemiBoldItalic.woff") format("woff"),
+            url("../fonts/ttf/ProzaLibre-SemiBoldItalic.ttf") format("truetype"), url("../fonts/svg/ProzaLibre-SemiBoldItalic.svg#ProzaLibre-SemiBoldItalic") format("svg");
 
   font-weight: 600;
 
@@ -863,6 +855,21 @@ video {
   }
 }
 
+.speaker-box-shadow {
+  box-shadow: 0px 1px 30px 0px rgba(0, 0, 0, 0.3);
+}
+
+.box-shadow {
+  box-shadow: 0px 1px 50px 0px rgba(0, 0, 0, 0.1);
+}
+
+.text-shadow {
+  text-shadow: 0px 0px 8px rgba(0, 0, 0, 0.75);
+  -moz-transform: matrix(1.26468617798377, 0, 0, 1.26468617798377, 0, 0);
+  -webkit-transform: matrix(1.26468617798377, 0, 0, 1.26468617798377, 0, 0);
+  -ms-transform: matrix(1.26468617798377, 0, 0, 1.26468617798377, 0, 0);
+}
+
 .mobile-menu {
   visibility: hidden;
   position: fixed;
@@ -994,6 +1001,19 @@ video {
   color: rgb(168 169 173 / var(--tw-text-opacity));
 }
 
+.faq-wrapper p {
+  font-family: Proza Libre, sans-serif;
+  line-height: 20px;
+  --tw-text-opacity: 1;
+  color: rgb(168 169 173 / var(--tw-text-opacity));
+}
+
+.schedule-card > p {
+  font-family: Proza Libre, sans-serif;
+  --tw-text-opacity: 1;
+  color: rgb(168 169 173 / var(--tw-text-opacity));
+}
+
 .absolute {
   position: absolute;
 }
@@ -1060,16 +1080,16 @@ video {
   margin-bottom: 1.5rem;
 }
 
-.mb-8 {
-  margin-bottom: 2rem;
-}
-
-.mt-6 {
-  margin-top: 1.5rem;
+.mt-4 {
+  margin-top: 1rem;
 }
 
 .mt-12 {
   margin-top: 3rem;
+}
+
+.mb-8 {
+  margin-bottom: 2rem;
 }
 
 .flex {
@@ -1104,8 +1124,8 @@ video {
   height: 450px;
 }
 
-.h-\[1px\] {
-  height: 1px;
+.h-\[1\.5px\] {
+  height: 1.5px;
 }
 
 .w-full {
@@ -1120,6 +1140,11 @@ video {
   width: 16rem;
 }
 
+.min-w-max {
+  min-width: -moz-max-content;
+  min-width: max-content;
+}
+
 .max-w-\[70px\] {
   max-width: 70px;
 }
@@ -1130,6 +1155,10 @@ video {
 
 .max-w-5xl {
   max-width: 64rem;
+}
+
+.max-w-xl {
+  max-width: 36rem;
 }
 
 .max-w-\[72px\] {
@@ -1209,8 +1238,20 @@ video {
   gap: 2rem;
 }
 
+.gap-\[43px\] {
+  gap: 43px;
+}
+
 .gap-2 {
   gap: 0.5rem;
+}
+
+.gap-16 {
+  gap: 4rem;
+}
+
+.gap-20 {
+  gap: 5rem;
 }
 
 .space-y-2 > :not([hidden]) ~ :not([hidden]) {
@@ -1221,6 +1262,10 @@ video {
 
 .whitespace-nowrap {
   white-space: nowrap;
+}
+
+.whitespace-pre {
+  white-space: pre;
 }
 
 .rounded-lg {
@@ -1243,12 +1288,20 @@ video {
   border-top-width: 8px;
 }
 
-.border-t-2 {
-  border-top-width: 2px;
+.border-t-\[6px\] {
+  border-top-width: 6px;
+}
+
+.border-t-\[3px\] {
+  border-top-width: 3px;
 }
 
 .border-t-\[4px\] {
   border-top-width: 4px;
+}
+
+.border-solid {
+  border-style: solid;
 }
 
 .border-color-1 {
@@ -1327,9 +1380,9 @@ video {
   padding-bottom: 1rem;
 }
 
-.px-10 {
-  padding-left: 2.5rem;
-  padding-right: 2.5rem;
+.px-\[30px\] {
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
 .py-2 {
@@ -1337,18 +1390,14 @@ video {
   padding-bottom: 0.5rem;
 }
 
-.py-\[2px\] {
-  padding-top: 2px;
-  padding-bottom: 2px;
+.py-\[4px\] {
+  padding-top: 4px;
+  padding-bottom: 4px;
 }
 
 .px-6 {
   padding-left: 1.5rem;
   padding-right: 1.5rem;
-}
-
-.pt-10 {
-  padding-top: 2.5rem;
 }
 
 .pt-8 {
@@ -1382,14 +1431,14 @@ video {
   line-height: 2rem;
 }
 
-.text-3xl {
-  font-size: 1.875rem;
-  line-height: 2.25rem;
-}
-
 .text-sm {
   font-size: 0.875rem;
   line-height: 1.25rem;
+}
+
+.text-xs {
+  font-size: 0.75rem;
+  line-height: 1rem;
 }
 
 .text-\[22px\] {
@@ -1421,6 +1470,10 @@ video {
   text-transform: uppercase;
 }
 
+.capitalize {
+  text-transform: capitalize;
+}
+
 .leading-\[20px\] {
   line-height: 20px;
 }
@@ -1430,9 +1483,9 @@ video {
   color: rgb(247 148 30 / var(--tw-text-opacity)) !important;
 }
 
-.text-color-4 {
+.text-color-5 {
   --tw-text-opacity: 1;
-  color: rgb(168 169 173 / var(--tw-text-opacity));
+  color: rgb(144 144 144 / var(--tw-text-opacity));
 }
 
 .text-white {
@@ -1445,25 +1498,13 @@ video {
   color: rgb(247 148 30 / var(--tw-text-opacity));
 }
 
-.text-color-3 {
+.text-color-4 {
   --tw-text-opacity: 1;
-  color: rgb(222 146 66 / var(--tw-text-opacity));
+  color: rgb(168 169 173 / var(--tw-text-opacity));
 }
 
 .opacity-0 {
   opacity: 0;
-}
-
-.shadow-xl {
-  --tw-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
-  --tw-shadow-colored: 0 20px 25px -5px var(--tw-shadow-color), 0 8px 10px -6px var(--tw-shadow-color);
-  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
-}
-
-.shadow-md {
-  --tw-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
-  --tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color), 0 2px 4px -2px var(--tw-shadow-color);
-  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
 
 .transition-all {
@@ -1490,11 +1531,6 @@ video {
   color: rgb(247 148 30 / var(--tw-text-opacity));
 }
 
-.hover\:text-color-3:hover {
-  --tw-text-opacity: 1;
-  color: rgb(222 146 66 / var(--tw-text-opacity));
-}
-
 .group:hover .group-hover\:select-auto {
   -webkit-user-select: auto;
      -moz-user-select: auto;
@@ -1513,6 +1549,16 @@ video {
   .sm\:grid-cols-2 {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
+
+  .sm\:text-3xl {
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+  }
+
+  .sm\:text-xl {
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+  }
 }
 
 @media (min-width: 768px) {
@@ -1530,16 +1576,16 @@ video {
     grid-column: span 7 / span 7;
   }
 
-  .lg\:col-span-2 {
-    grid-column: span 2 / span 2;
-  }
-
   .lg\:col-span-3 {
     grid-column: span 3 / span 3;
   }
 
   .lg\:col-span-9 {
     grid-column: span 9 / span 9;
+  }
+
+  .lg\:col-span-2 {
+    grid-column: span 2 / span 2;
   }
 
   .lg\:col-span-4 {
@@ -1559,6 +1605,14 @@ video {
     margin-bottom: 2.5rem;
   }
 
+  .lg\:mt-8 {
+    margin-top: 2rem;
+  }
+
+  .lg\:mt-6 {
+    margin-top: 1.5rem;
+  }
+
   .lg\:block {
     display: block;
   }
@@ -1575,6 +1629,11 @@ video {
     height: calc(100vh - 150px);
   }
 
+  .lg\:min-w-max {
+    min-width: -moz-max-content;
+    min-width: max-content;
+  }
+
   .lg\:max-w-\[170px\] {
     max-width: 170px;
   }
@@ -1587,12 +1646,12 @@ video {
     grid-template-columns: repeat(12, minmax(0, 1fr));
   }
 
-  .lg\:grid-cols-5 {
-    grid-template-columns: repeat(5, minmax(0, 1fr));
-  }
-
   .lg\:grid-cols-4 {
     grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .lg\:flex-row {
+    flex-direction: row;
   }
 
   .lg\:justify-between {
@@ -1611,9 +1670,13 @@ video {
     padding: 2rem;
   }
 
-  .lg\:py-4 {
-    padding-top: 1rem;
-    padding-bottom: 1rem;
+  .lg\:py-7 {
+    padding-top: 1.75rem;
+    padding-bottom: 1.75rem;
+  }
+
+  .lg\:pt-10 {
+    padding-top: 2.5rem;
   }
 
   .lg\:pt-16 {

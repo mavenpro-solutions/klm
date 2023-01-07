@@ -15,6 +15,7 @@ module.exports = {
                 "color-2": "#FBB160",
                 "color-3": "#DE9242",
                 "color-4": "#a8a9ad",
+                "color-5": "#909090"
             },
             fontFamily: {
                 'cormorant-garamond': ["Cormorant Garamond", "sans-serif"],
